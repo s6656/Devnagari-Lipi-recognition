@@ -16,3 +16,6 @@ You can add additional images to the training set for increasing the accuracy.
 Python Implementation
 Dataset- DHCD (Devnagari Character Dataset)
 Images of size 32 X 32
+
+CNN accuracy= 96.600
+CNN error= 3.4000000000000057
